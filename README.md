@@ -1,0 +1,1 @@
+This is to test some branch reset ideas to see how they work in git.
